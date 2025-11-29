@@ -3,7 +3,8 @@
 Implementing K-Means Clustering from Scratch and Evaluating Performance:
 Description:
 The code implements K-Means clustering, an unsupervised learning algorithm, from scratch using NumPy. It partitions the data into K clusters by minimizing the within-cluster sum of squares (inertia). The code also tracks the evolution of inertia across iterations to show convergence.
-Methodology:
+
+METHODOLOGY:
 1. Initialization:
     - Choose K random points from the dataset as initial centroids.
 
